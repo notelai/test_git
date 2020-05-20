@@ -1,4 +1,4 @@
-Using Git and Github for revision control
+Using Git and Github for Introduction to Computer Science and Programming - VNUK 2020
 =========================================
 
 What is Git?
