@@ -384,15 +384,15 @@ commit messages:
 
 ```
 $ git log
-commit 9bbe430f6e8b70187927b4a70a8402f71b17b426
-Author: Bernie <florbitous@gmail.com>
-Date: Fri Mar 15 12:30:39 2013 +1100
-Added a comment
-commit b1cce115fb40a9b11917db7eb73c8295e276bb09
-Author: Bernie <florbitous@gmail.com>
-Date: Fri Mar 15 12:08:01 2013 +1100
-A little greeting program
-commit 71a771a86b8116c3f93c99db5416bfa371a6f772
-Author: Bernie Pope <florbitous@gmail.com>
-Date: Thu Mar 14 17:29:02 2013 -0700
+commit 4049882fee41db390efc29d3f37075ca2a7fc7c1 (HEAD -> master, origin/master, origin/documentation, origin/HEAD, documentation)
+Author: notelai <thien.nguyen@vnuk.edu.vn>
+Date:   Wed May 20 09:31:25 2020 +0700
+    Added a comment
+commit 9d046d281b171a933d9556eeb6cbb27c89007b51
+Author: notelai <thien.nguyen@vnuk.edu.vn>
+Date:   Wed May 20 09:25:24 2020 +0700
+    A little greeting program
+commit 288ff2d3a78c4dac4787e8a1a8df043b9e9703cc
+Author: Thien Nguyen <64153275+notelai@users.noreply.github.com>
+Date:   Wed May 20 09:15:52 2020 +0700
 ```
