@@ -1,6 +1,5 @@
 # Git and Github
-Complete the exercises corresponding to the files in the directory [exercise](https://github.com/notelai/using_git/tree/master/exercise)
-You can practise your own with the [tutorial](https://github.com/notelai/using_git/blob/master/tutorials.md).
+Complete the exercises corresponding to the files in the directory [exercise](https://github.com/notelai/using_git/tree/master/exercise). You can practise your own with the [tutorial](https://github.com/notelai/using_git/blob/master/tutorials.md).
 ### bubble_sort.py
 ![](media/11.png)
 
