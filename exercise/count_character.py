@@ -1,7 +1,7 @@
 
 
-
-if c in dict:
+for c in string:
+  if c in dict:
   
   
   
