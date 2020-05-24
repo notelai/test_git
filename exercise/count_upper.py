@@ -3,3 +3,4 @@ def count_upper(string):
 
 if letter.isupper():
 
+return uppercase
