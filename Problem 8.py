@@ -7,6 +7,7 @@ Created on Wed May 27 08:57:21 2020
 import pandas as pd
 data = pd.read_csv("datagg.csv", index_col = 0)
 df = pd.DataFrame(data)
+#first way
 def sorted_age_list(df):
     sorted_list = []
     for row in df.itertuples():
@@ -28,3 +29,6 @@ def age_descending_df(df):
                 list_name.append(row[1])
         index += 1       
     return df_copy
+#second and easier way
+def easy_age_descending(df):
+    return df.sort_values(by = "Age", ascending = False)
